@@ -1,6 +1,7 @@
 
 <div align=center>
-<h1><strong>h o L a! 🤓 Bienvenue sur ma page!</strong></h1>
+<h1><strong>h o L a!<br>🤓</strong></h1>
+<h2><strong>✨ Bienvenue sur ma page! ✨</strong></h2>
 </div>
 
 ![gif](readme.gif)
@@ -9,7 +10,7 @@
 
 and I'm a language enthusiast 🗣️
 
-I mean: Spanish 🇲🇽, French 🇫🇷, Arabic 🇸🇾, Portuguese 🇵🇹, Russian 🇷🇺, etc.     
+I mean: Spanish 🇲🇽 French 🇫🇷 Arabic 🇸🇾 Portuguese 🇵🇹 Russian 🇷🇺 etc.     
 
 One day I decided to experiment with how similar (or not) it would be to learn <em>cyber</em> languages, and I haven't looked back! When I'm not coding or learning other languages, I'm perfecting my handle on the art of international cuisines, watching hidden-gem foreign films, painting oils on canvas or reading in my book nook 📚
 
