@@ -4,9 +4,9 @@
 <h2><strong>✨ Bienvenue sur ma page! ✨</strong></h2>
 </div>
 
-<div align=center>
+<div align=center height=40 width=100>
 
-![gif](giphy.gif)
+![gif](https://media.giphy.com/media/5svXsyhscMiQw/giphy.gif)
 
 </div>
 
