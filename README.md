@@ -1,10 +1,11 @@
 
 <div align=center>
-<h1><strong>h o L a!<br>🤓</strong></h1>
+<h1><strong>🤓<br>h o L a!</strong></h1>
 <h2><strong>✨ Bienvenue sur ma page! ✨</strong></h2>
 </div>
 
-![gif](readme.gif)
+<!-- ![gif](readme.gif) -->
+![gif](http://gph.is/2ARyK1l)
 
 # I'm Alejandra <img height=20.5 width=20.5 src="icons/verified.svg">
 
