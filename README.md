@@ -6,7 +6,7 @@
 
 <div align=center height=40 width=100>
 
-![gif](https://media.giphy.com/media/5svXsyhscMiQw/giphy.gif)
+![gif](readme.gif)
 
 </div>
 
