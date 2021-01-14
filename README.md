@@ -1,17 +1,17 @@
 
 <div align=center>
-<h1><strong>Hiii! 🤓</strong></h1>
+<h1><strong>h o L a! 🤓 Bienvenue sur ma page!</strong></h1>
 </div>
 
 ![gif](readme.gif)
 
 # I'm Alejandra <img height=20.5 width=20.5 src="icons/verified.svg">
 
-and I am a language enthusiast 🗣️
+and I'm a language enthusiast 🗣️
 
-I mean: Spanish, French, Arabic, Portuguese, Russian, etc. 🇲🇽 🇫🇷 🇸🇾 🇵🇹 🇷🇺
+I mean: Spanish 🇲🇽, French 🇫🇷, Arabic 🇸🇾, Portuguese 🇵🇹, Russian 🇷🇺, etc.     
 
-One day I decided to experiment with how similar (or not) it would be to learn cyber languages, and I haven't looked back! When I'm not coding or learning other languages, I'm perfecting my handle on the art of international cuisines, watching hidden-gem foreign films, painting oils on canvas or reading in my book nook 📚
+One day I decided to experiment with how similar (or not) it would be to learn <em>cyber</em> languages, and I haven't looked back! When I'm not coding or learning other languages, I'm perfecting my handle on the art of international cuisines, watching hidden-gem foreign films, painting oils on canvas or reading in my book nook 📚
 
 I also love discovering the beautiful idiosyncrasies of a country and its people, so I look very forward to traveling the world with my remote job in programming! 🌍
 
