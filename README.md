@@ -19,8 +19,13 @@ I also love discovering the beautiful idiosyncrasies of a country and its people
 
 Some of the things I've been working on include:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codingknite&repo=frontend-development&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codingknite&repo=scavenger&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlejandraMRuiz&repo=digital-clock&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlejandraMRuiz&repo=todo-app&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 ## My Skills
 
@@ -41,6 +46,6 @@ Some of the things I've been working on include:
 
 ## What I've been up to
 
-<p align="center">
+<!-- <p align="center">
 
-<img width="99%" src="https://github-readme-stats.vercel.app/api?username=codingknite&show_icons=true&theme=gotham&custom_title=Joel's GitHub Stats" />
+<img width="99%" src="https://github-readme-stats.vercel.app/api?username=codingknite&show_icons=true&theme=gotham&custom_title=Joel's GitHub Stats" /> -->
