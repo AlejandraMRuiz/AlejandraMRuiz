@@ -4,7 +4,11 @@
 <h2><strong>✨ Bienvenue sur ma page! ✨</strong></h2>
 </div>
 
-![gif](https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif)
+<div align=center>
+
+![gif](giphy.gif)
+
+</div>
 
 # I'm Alejandra <img height=20.5 width=20.5 src="icons/verified.svg">
 
