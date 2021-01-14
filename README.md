@@ -32,7 +32,7 @@ Some of the things I've been working on include:
 
 ## My Skills
 
-<img width=45 src="icons/js.png">&nbsp; <img width=45 src="icons/html.png"> <img width=45 src="icons/css.webp"> 
+<img width=45 src="icons/javascript.png">&nbsp; <img width=45 src="icons/html.png"> <img width=45 src="icons/css.webp"> 
 
 ## Skills Am Learning
 
@@ -44,7 +44,7 @@ Some of the things I've been working on include:
 
 ## Where I Hangout
 
-[<img width=40 src="icons/instagram.jpg">](https://www.instagram.com/amr.codes)&nbsp;&nbsp; 
+[<img width=40 src="icons/instagram.png">](https://www.instagram.com/amr.codes)&nbsp;&nbsp; 
 [<img width=40 src="icons/linkedin.png">](https://www.linkedin.com/in/alejandra-m-ruiz/)
 
 ## What I've been up to
