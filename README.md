@@ -14,7 +14,7 @@
 
 and I'm a language enthusiast 🗣️
 
-I mean: Spanish 🇲🇽 French 🇫🇷 Arabic 🇸🇾 Portuguese 🇵🇹 Russian 🇷🇺 etc.     
+I mean: Spanish 🇲🇽&nbsp; French 🇫🇷&nbsp; Arabic 🇸🇾&nbsp; Portuguese 🇵🇹&nbsp; Russian 🇷🇺&nbsp; etc.     
 
 One day I decided to experiment with how similar (or not) it would be to learn <em>cyber</em> languages, and I haven't looked back! When I'm not coding or learning other languages, I'm perfecting my handle on the art of international cuisines, watching hidden-gem foreign films, painting oils on canvas or reading in my book nook 📚
 
@@ -32,7 +32,7 @@ Some of the things I've been working on include:
 
 ## My Skills
 
-<img width=40 src="icons/js.png">&nbsp; <img width=45 src="icons/html.png"> <img width=45 src="icons/css.webp"> 
+<img width=45 src="icons/js.png">&nbsp; <img width=45 src="icons/html.png"> <img width=45 src="icons/css.webp"> 
 
 ## Skills Am Learning
 
