@@ -1,7 +1,7 @@
 
 <div align=center>
-<h1><strong>🤓<br>h o L a!</strong></h1>
-<h2><strong>✨ Bienvenue sur ma page! ✨</strong></h2>
+<h1><strong>🤓<br>!h o L a!</strong></h1>
+<h2><strong>✨ bienvenue sur ma page ✨</strong></h2>
 </div>
 
 <div align=center height=40 width=100>
@@ -47,8 +47,3 @@ Some of the things I've been working on include:
 [<img width=40 src="icons/instagram.png">](https://www.instagram.com/amr.codes)&nbsp;&nbsp; 
 [<img width=40 src="icons/linkedin.png">](https://www.linkedin.com/in/alejandra-m-ruiz/)
 
-## What I've been up to
-
-<!-- <p align="center">
-
-<img width="99%" src="https://github-readme-stats.vercel.app/api?username=codingknite&show_icons=true&theme=gotham&custom_title=Joel's GitHub Stats" /> -->
