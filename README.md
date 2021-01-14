@@ -1,13 +1,13 @@
 
 <div align=center>
-<h1><strong>Hi👋</strong></h1>
+<h1><strong>Hi! 🤓</strong></h1>
 </div>
 
 ![gif](readme.gif)
 
 # I'm Alejandra <img height=20.5 width=20.5 src="icons/verified.svg">
 
-I am a language enthusiast!
+and I am a language enthusiast!
 
 I mean: Spanish, French, Portuguese, Russian, Arabic, etc. ;)
 
