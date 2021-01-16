@@ -24,8 +24,8 @@ Some of the things I've been working on include:
 
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlejandraMRuiz&repo=digital-clock&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlejandraMRuiz&repo=todo-app&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlejandraMRuiz&repo=digital-clock&theme=dark)](https://github.com/AlejandraMRuiz/digital-clock)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlejandraMRuiz&repo=todo-app&theme=dark)](https://github.com/AlejandraMRuiz/todo-app)
 
 
 
